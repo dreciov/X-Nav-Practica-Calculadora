@@ -7,4 +7,4 @@ Esta práctica consistirá en la creación de una calculadora que funcione como 
 
 ## ejecutar calculadora
 
-https://github.com/dreciov/X-Nav-Practica-Calculadora
+http://dreciov.github.io/X-Nav-Practica-Calculadora
