@@ -1,0 +1,46 @@
+.fondo{ width:400px; 
+		background-color:#595959;
+		margin-left:600px;
+		border-radius:20px; }
+
+.butnum{width: 40px; 
+	height: 40px; 
+	border-radius:10px; 
+	background-color: #cccccc; 
+	font-size: 25px;
+	padding-left: 10px;
+	margin-bottom:20px;
+	margin-right:10px;
+	margin-top: 10px;
+	margin-left: 20px;
+	color:black;}
+.butop{
+	width: 40px;
+	height: 40px; 
+	border-radius:10px; 
+	font-size: 25px;
+	background-color: #66b3ff;
+	color:black;
+	margin-left: 20px;
+}
+.pantalla{
+	height: 50px;
+	font-size:20px;
+	margin-left:40px;	
+	margin-top:40px;
+	margin-bottom:40px;
+}
+
+.extra{
+	width: 40px; 
+	height: 40px; 
+	border-radius:10px; 
+	background-color: #ff6666; 
+	font-size: 25px;
+	padding-left: 10px;
+	margin-bottom:20px;
+	margin-right:10px;
+	margin-top: 10px;
+	margin-left: 20px;
+	color:black;}
+}
